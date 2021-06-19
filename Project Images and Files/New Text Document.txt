@@ -1,0 +1,16 @@
+step 1: Input Face Images, Videos, stream
+step 2: Preprocessing the Face Images
+	a. Face Detection and Segmentation
+	b. Aligning & Cropping
+	c. Color to Grayscale
+	d. Eigen Faces
+	e. Catpuring Features
+Step 3: Feature Extraction from Images
+	a. feature based appraoch/appearance based approach
+	b. object detection and template building (Testing)
+	c. Matching with trained dataset utilizing CPU (GPU if available)
+	d. improving trained dataset (Training)
+step 4: Classification Methods
+	a. Binary Classification or Multi-label classification
+	b. Decision Algorithm
+step 5: Final Prediction with output frame
